@@ -1,3 +1,3 @@
 # meow-mapper
 
-![ci-badge](https://github.com/meow-mapper/meow-mapper-deploy/workflows/meow-mapper/badge.svg)
+![ci-badge](https://github.com/meow-mapper/meow-mapper-deploy/workflows/ci-meow-mapper-deploy/badge.svg)
